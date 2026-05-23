@@ -86,4 +86,13 @@ This dashboard enables stakeholders to:
 
 ---
 
+## 📷 Dashboard Preview
+<img width="970" height="728" alt="Screenshot 2026-05-24 024022" src="https://github.com/user-attachments/assets/4118e5e9-6904-43da-93f4-ea79fd1db5a0" />
+<img width="971" height="714" alt="Screenshot 2026-05-24 023958" src="https://github.com/user-attachments/assets/6da4d8a2-2046-4884-9c92-0c694e868f50" />
+<img width="946" height="723" alt="Screenshot 2026-05-24 023944" src="https://github.com/user-attachments/assets/29355dc5-c26b-4ef6-a468-8932b6d0e875" />
 
+---
+
+## 🚀 Key Takeaway
+
+This project demonstrates the ability to work on **real-world business data**, apply **end-to-end analytics workflow**, and deliver **actionable insights through Power BI dashboards**.
